@@ -1,4 +1,4 @@
-# 🚀 2D Space Shooter Game
+#  2D Space Shooter Game
 
 This is a classic 2D Space Shooter game developed as a core academic and practical project to demonstrate fundamental game development principles, software architecture, and physics-based mechanics. 
 
@@ -6,7 +6,7 @@ The project has been successfully migrated from an older Unity long-term support
 
 
 
-### 🌟 Key Features
+### Key Features
 
 * **Advanced Player Combat:** Engineered smooth, responsive player movement coupled with a dynamic, projectile-based firing system.
 * **Intelligent Enemy AI:** Implemented custom procedural spawning logic with progressive difficulty scaling to enhance gameplay engagement.
@@ -15,7 +15,7 @@ The project has been successfully migrated from an older Unity long-term support
 
 
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 * **Game Engine:** Unity 6
 * **Programming Language:** C#
@@ -23,7 +23,7 @@ The project has been successfully migrated from an older Unity long-term support
 
 
 
-### 🎮 How to Play / Run
+###  How to Play / Run
 
 1. Clone this repository to your local machine.
 2. Open the project folder inside **Unity Hub** (Unity 6 or later required).
